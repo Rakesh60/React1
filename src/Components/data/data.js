@@ -1,8 +1,8 @@
 let videos = [
-    {   type:"a",
+    {   type:"1",
       id: 1,
       title: "React Js Tutorial",
-      views: "102K",
+      views: "111K",
       time: "2 week ago",
       channel: "Coder Dost",
       verified: true,
