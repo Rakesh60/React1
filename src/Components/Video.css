@@ -1,0 +1,23 @@
+*{
+    color: aliceblue;
+}
+.container{
+
+    width: 15em;
+    margin: 0 0.2em;
+    float: left;
+}
+
+.pic img{
+    width:100%
+    
+}
+
+.title{
+    font-weight: bold;
+    margin-bottom: 1em;
+    
+}
+img{
+    border-radius: 8px;
+}
